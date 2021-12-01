@@ -1,0 +1,34 @@
+id,criteria,alcohol,drug,smoke
+1,alcohol dependence,1,0,0
+2,alcoholism,1,0,0
+3,has alcohol and/or drug abuse.,1,1,0
+4,drug or alcohol dependence,1,1,0
+5,consuming more than 14 alcoholic beverages per week,1,0,0
+6,"substance or alcohol dependence according to the dsm-iv criteria at randomization (except complete recovered, and caffeine and nicotine dependence)",1,1,1
+7,"mental illness or history of drug or alcohol abuse that, in the opinion of the investigator, would interfere with the participant's ability to comply with study requirements.",1,1,0
+8,significant history of alcoholism or drug abuse.,1,1,0
+9,"hospitalization anytime since 1990 for alcohol or drug dependence, depression, or ptsd",1,1,0
+10,drug-alcoholics addiction ;,1,1,0
+11,addictions to alcohol or drugs.,1,1,0
+12,chronic alcohol use not diagnosed in criterion 6. i. subjects unwilling to limit their alcohol intake to 2 standard drinks per day will be excluded.,1,0,0
+13,"substance or alcohol dependence according to the dsm-iv criteria at randomization (except complete recovered, and caffeine and nicotine dependence)",1,1,1
+14,"mental illness or history of drug or alcohol abuse that, in the opinion of the investigator, would interfere with the participant's ability to comply with study requirements.",1,1,0
+15,significant history of alcoholism or drug abuse.,1,1,0
+16,has alcohol and/or drug abuse.,1,1,0
+17,drug or alcohol dependence,1,1,0
+18,drug-alcoholics addiction ;,1,1,0
+19,addictions to alcohol or drugs.,1,1,0
+20,marijuana use or other inhaled products with or without nicotine in the last 3 months,0,1,1
+21,history or presence of significant recreational or illicit drug abuse in past 1 year.,0,1,0
+22,active smokers,0,0,1
+23,smokers,0,0,1
+24,any type of tobacco use,0,0,1
+25,active tobacco use,0,0,1
+26,recent tobacco use,0,0,1
+27,"active alcohol, tobacco or drug abuse",1,1,1
+28,use of tobacco or history of use of tobacco ( > 5 tobacco/week) or nicotine-containing products in the 3 months prior to screening.,0,0,1
+29,"smokers, tobacco/snuff/nicotine users, recreational drug users",0,1,1
+30,presently a smoker or ex-smoker with history of smoking (subject must abstain from smoking throughout the study).,0,0,1
+31,a history of abuse of psychotropic substances and are unable to quit smoking or mental disorders.,0,1,1
+32,patients who are actively smoking.,0,0,1
+33,is an active smoker or stopped smoking in the last 6 months,0,0,1
